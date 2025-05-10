@@ -21,7 +21,7 @@ The model is trained on a synthetic dataset containing realistic combinations of
 ## Getting Started
  Step1:Clone the Repository  
 '''bash 
-git clone https://github.com/janani0673/AI-Disease-Prediction/settings
+git clone https://github.com/janani0673/AI-Disease-Prediction
 cd AI-Disease-Prediction
 
 
